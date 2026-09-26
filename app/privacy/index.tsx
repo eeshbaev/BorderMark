@@ -1,4 +1,5 @@
-import { StyleSheet, View } from 'react-native';
+import Constants from 'expo-constants';
+import { Linking, Pressable, StyleSheet, View } from 'react-native';
 
 import { AccessibleText } from '@/presentation/components/AccessibleText';
 import { Screen } from '@/presentation/components/Screen';
@@ -43,6 +44,10 @@ const sections = [
 
 export default function PrivacyScreen() {
   const { colors } = useTheme();
+  const publishedPolicyUrl =
+    typeof Constants.expoConfig?.extra?.privacyPolicyUrl === 'string'
+      ? Constants.expoConfig.extra.privacyPolicyUrl.trim()
+      : '';
 
   return (
     <Screen title="Privacy" subtitle="Transparent by default. No hidden sync.">
@@ -50,6 +55,18 @@ export default function PrivacyScreen() {
         BorderMark is built for private life records across borders. Your data belongs on your device unless you
         choose to move it.
       </AccessibleText>
+
+      {publishedPolicyUrl ? (
+        <Pressable
+          onPress={() => void Linking.openURL(publishedPolicyUrl)}
+          accessibilityRole="link"
+          accessibilityLabel="Open published privacy policy on the web"
+        >
+          <AccessibleText style={{ color: colors.accent, fontWeight: '600' }}>
+            View published privacy policy
+          </AccessibleText>
+        </Pressable>
+      ) : null}
 
       {sections.map((section) => (
         <View key={section.title} style={[styles.group, { backgroundColor: colors.surface, borderColor: colors.border }]}>

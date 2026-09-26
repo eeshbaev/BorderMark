@@ -24,7 +24,7 @@
     },
     "android": {
       "package": "com.bordermark.app",
-      "versionCode": 2,
+      "versionCode": 3,
       "adaptiveIcon": {
         "backgroundColor": "#F7F5F2",
         "foregroundImage": "./assets/android-icon-foreground.png",
@@ -88,6 +88,7 @@
     ],
     "extra": {
       "router": {},
+      "privacyPolicyUrl": "https://eeshbaev95.github.io/BorderMark/privacy-policy.html",
       "eas": {
         "projectId": "33bdd5bb-8eb1-4c4b-ac8a-bf8d3f0fa91b"
       }

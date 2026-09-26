@@ -19,6 +19,18 @@ npm start
 
 Android first release target; iOS follows with the same codebase.
 
+## Privacy policy (public URL for Play Store)
+
+After you push this repo to GitHub, enable **GitHub Pages** (Settings → Pages → source: **Deploy from branch** → branch `main` → folder **`/docs`**).
+
+Your privacy policy URL will be:
+
+`https://<your-github-username>.github.io/BorderMark/privacy-policy.html`
+
+Also available as markdown: [PRIVACY_POLICY.md](./PRIVACY_POLICY.md)
+
+Use that HTTPS URL in Google Play Console under **App content → Privacy policy**.
+
 ## Architecture
 
 ```
