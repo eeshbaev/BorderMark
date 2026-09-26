@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "countries": [
+    { "code": "UZ", "name": "Uzbekistan", "continent": "Asia", "schengen": false, "bounds": { "minLat": 37.0, "maxLat": 45.6, "minLng": 55.9, "maxLng": 73.2 } },
+    { "code": "TR", "name": "Türkiye", "continent": "Europe", "schengen": false, "bounds": { "minLat": 35.8, "maxLat": 42.1, "minLng": 25.7, "maxLng": 44.8 } },
+    { "code": "GE", "name": "Georgia", "continent": "Asia", "schengen": false, "bounds": { "minLat": 41.0, "maxLat": 43.6, "minLng": 39.9, "maxLng": 46.7 } },
+    { "code": "US", "name": "United States", "continent": "North America", "schengen": false, "bounds": { "minLat": 24.5, "maxLat": 49.4, "minLng": -125.0, "maxLng": -66.9 } },
+    { "code": "IT", "name": "Italy", "continent": "Europe", "schengen": true, "bounds": { "minLat": 36.6, "maxLat": 47.1, "minLng": 6.6, "maxLng": 18.5 } },
+    { "code": "DE", "name": "Germany", "continent": "Europe", "schengen": true, "bounds": { "minLat": 47.3, "maxLat": 55.1, "minLng": 5.9, "maxLng": 15.0 } },
+    { "code": "FR", "name": "France", "continent": "Europe", "schengen": true, "bounds": { "minLat": 41.3, "maxLat": 51.1, "minLng": -5.1, "maxLng": 9.6 } },
+    { "code": "ES", "name": "Spain", "continent": "Europe", "schengen": true, "bounds": { "minLat": 27.6, "maxLat": 43.8, "minLng": -18.2, "maxLng": 4.3 } },
+    { "code": "NL", "name": "Netherlands", "continent": "Europe", "schengen": true, "bounds": { "minLat": 50.7, "maxLat": 53.6, "minLng": 3.3, "maxLng": 7.2 } },
+    { "code": "GB", "name": "United Kingdom", "continent": "Europe", "schengen": false, "bounds": { "minLat": 49.9, "maxLat": 60.9, "minLng": -8.6, "maxLng": 1.8 } },
+    { "code": "AE", "name": "United Arab Emirates", "continent": "Asia", "schengen": false, "bounds": { "minLat": 22.6, "maxLat": 26.1, "minLng": 51.5, "maxLng": 56.4 } },
+    { "code": "KZ", "name": "Kazakhstan", "continent": "Asia", "schengen": false, "bounds": { "minLat": 40.5, "maxLat": 55.4, "minLng": 46.5, "maxLng": 87.3 } },
+    { "code": "JP", "name": "Japan", "continent": "Asia", "schengen": false, "bounds": { "minLat": 24.0, "maxLat": 45.5, "minLng": 122.9, "maxLng": 153.9 } },
+    { "code": "CA", "name": "Canada", "continent": "North America", "schengen": false, "bounds": { "minLat": 41.7, "maxLat": 83.1, "minLng": -141.0, "maxLng": -52.6 } },
+    { "code": "AU", "name": "Australia", "continent": "Oceania", "schengen": false, "bounds": { "minLat": -43.6, "maxLat": -10.0, "minLng": 113.3, "maxLng": 153.6 } }
+  ]
+}

@@ -1,0 +1,1289 @@
+{
+  "version": 2,
+  "countries": [
+    {
+      "code": "AF",
+      "name": "Afghanistan",
+      "continent": "Asia",
+      "schengen": false
+    },
+    {
+      "code": "AL",
+      "name": "Albania",
+      "continent": "Europe",
+      "schengen": false
+    },
+    {
+      "code": "DZ",
+      "name": "Algeria",
+      "continent": "Africa",
+      "schengen": false
+    },
+    {
+      "code": "AD",
+      "name": "Andorra",
+      "continent": "Europe",
+      "schengen": false
+    },
+    {
+      "code": "AO",
+      "name": "Angola",
+      "continent": "Africa",
+      "schengen": false
+    },
+    {
+      "code": "AG",
+      "name": "Antigua and Barbuda",
+      "continent": "North America",
+      "schengen": false
+    },
+    {
+      "code": "AR",
+      "name": "Argentina",
+      "continent": "South America",
+      "schengen": false
+    },
+    {
+      "code": "AM",
+      "name": "Armenia",
+      "continent": "Asia",
+      "schengen": false
+    },
+    {
+      "code": "AU",
+      "name": "Australia",
+      "continent": "Oceania",
+      "schengen": false,
+      "bounds": {
+        "minLat": -43.6,
+        "maxLat": -10,
+        "minLng": 113.3,
+        "maxLng": 153.6
+      }
+    },
+    {
+      "code": "AT",
+      "name": "Austria",
+      "continent": "Europe",
+      "schengen": true
+    },
+    {
+      "code": "AZ",
+      "name": "Azerbaijan",
+      "continent": "Asia",
+      "schengen": false
+    },
+    {
+      "code": "BS",
+      "name": "Bahamas",
+      "continent": "North America",
+      "schengen": false
+    },
+    {
+      "code": "BH",
+      "name": "Bahrain",
+      "continent": "Asia",
+      "schengen": false
+    },
+    {
+      "code": "BD",
+      "name": "Bangladesh",
+      "continent": "Asia",
+      "schengen": false
+    },
+    {
+      "code": "BB",
+      "name": "Barbados",
+      "continent": "North America",
+      "schengen": false
+    },
+    {
+      "code": "BY",
+      "name": "Belarus",
+      "continent": "Europe",
+      "schengen": false
+    },
+    {
+      "code": "BE",
+      "name": "Belgium",
+      "continent": "Europe",
+      "schengen": true
+    },
+    {
+      "code": "BZ",
+      "name": "Belize",
+      "continent": "North America",
+      "schengen": false
+    },
+    {
+      "code": "BJ",
+      "name": "Benin",
+      "continent": "Africa",
+      "schengen": false
+    },
+    {
+      "code": "BT",
+      "name": "Bhutan",
+      "continent": "Asia",
+      "schengen": false
+    },
+    {
+      "code": "BO",
+      "name": "Bolivia",
+      "continent": "South America",
+      "schengen": false
+    },
+    {
+      "code": "BA",
+      "name": "Bosnia and Herzegovina",
+      "continent": "Europe",
+      "schengen": false
+    },
+    {
+      "code": "BW",
+      "name": "Botswana",
+      "continent": "Africa",
+      "schengen": false
+    },
+    {
+      "code": "BR",
+      "name": "Brazil",
+      "continent": "South America",
+      "schengen": false
+    },
+    {
+      "code": "BN",
+      "name": "Brunei",
+      "continent": "Asia",
+      "schengen": false
+    },
+    {
+      "code": "BG",
+      "name": "Bulgaria",
+      "continent": "Europe",
+      "schengen": true
+    },
+    {
+      "code": "BF",
+      "name": "Burkina Faso",
+      "continent": "Africa",
+      "schengen": false
+    },
+    {
+      "code": "BI",
+      "name": "Burundi",
+      "continent": "Africa",
+      "schengen": false
+    },
+    {
+      "code": "CV",
+      "name": "Cabo Verde",
+      "continent": "Africa",
+      "schengen": false
+    },
+    {
+      "code": "KH",
+      "name": "Cambodia",
+      "continent": "Asia",
+      "schengen": false
+    },
+    {
+      "code": "CM",
+      "name": "Cameroon",
+      "continent": "Africa",
+      "schengen": false
+    },
+    {
+      "code": "CA",
+      "name": "Canada",
+      "continent": "North America",
+      "schengen": false,
+      "bounds": {
+        "minLat": 41.7,
+        "maxLat": 83.1,
+        "minLng": -141,
+        "maxLng": -52.6
+      }
+    },
+    {
+      "code": "CF",
+      "name": "Central African Republic",
+      "continent": "Africa",
+      "schengen": false
+    },
+    {
+      "code": "TD",
+      "name": "Chad",
+      "continent": "Africa",
+      "schengen": false
+    },
+    {
+      "code": "CL",
+      "name": "Chile",
+      "continent": "South America",
+      "schengen": false
+    },
+    {
+      "code": "CN",
+      "name": "China",
+      "continent": "Asia",
+      "schengen": false
+    },
+    {
+      "code": "CO",
+      "name": "Colombia",
+      "continent": "South America",
+      "schengen": false
+    },
+    {
+      "code": "KM",
+      "name": "Comoros",
+      "continent": "Africa",
+      "schengen": false
+    },
+    {
+      "code": "CG",
+      "name": "Congo",
+      "continent": "Africa",
+      "schengen": false
+    },
+    {
+      "code": "CD",
+      "name": "Congo (DRC)",
+      "continent": "Africa",
+      "schengen": false
+    },
+    {
+      "code": "CR",
+      "name": "Costa Rica",
+      "continent": "North America",
+      "schengen": false
+    },
+    {
+      "code": "CI",
+      "name": "Côte d'Ivoire",
+      "continent": "Africa",
+      "schengen": false
+    },
+    {
+      "code": "HR",
+      "name": "Croatia",
+      "continent": "Europe",
+      "schengen": true
+    },
+    {
+      "code": "CU",
+      "name": "Cuba",
+      "continent": "North America",
+      "schengen": false
+    },
+    {
+      "code": "CY",
+      "name": "Cyprus",
+      "continent": "Asia",
+      "schengen": true
+    },
+    {
+      "code": "CZ",
+      "name": "Czechia",
+      "continent": "Europe",
+      "schengen": true
+    },
+    {
+      "code": "DK",
+      "name": "Denmark",
+      "continent": "Europe",
+      "schengen": true
+    },
+    {
+      "code": "DJ",
+      "name": "Djibouti",
+      "continent": "Africa",
+      "schengen": false
+    },
+    {
+      "code": "DM",
+      "name": "Dominica",
+      "continent": "North America",
+      "schengen": false
+    },
+    {
+      "code": "DO",
+      "name": "Dominican Republic",
+      "continent": "North America",
+      "schengen": false
+    },
+    {
+      "code": "EC",
+      "name": "Ecuador",
+      "continent": "South America",
+      "schengen": false
+    },
+    {
+      "code": "EG",
+      "name": "Egypt",
+      "continent": "Africa",
+      "schengen": false
+    },
+    {
+      "code": "SV",
+      "name": "El Salvador",
+      "continent": "North America",
+      "schengen": false
+    },
+    {
+      "code": "GQ",
+      "name": "Equatorial Guinea",
+      "continent": "Africa",
+      "schengen": false
+    },
+    {
+      "code": "ER",
+      "name": "Eritrea",
+      "continent": "Africa",
+      "schengen": false
+    },
+    {
+      "code": "EE",
+      "name": "Estonia",
+      "continent": "Europe",
+      "schengen": true
+    },
+    {
+      "code": "SZ",
+      "name": "Eswatini",
+      "continent": "Africa",
+      "schengen": false
+    },
+    {
+      "code": "ET",
+      "name": "Ethiopia",
+      "continent": "Africa",
+      "schengen": false
+    },
+    {
+      "code": "FJ",
+      "name": "Fiji",
+      "continent": "Oceania",
+      "schengen": false
+    },
+    {
+      "code": "FI",
+      "name": "Finland",
+      "continent": "Europe",
+      "schengen": true
+    },
+    {
+      "code": "FR",
+      "name": "France",
+      "continent": "Europe",
+      "schengen": true,
+      "bounds": {
+        "minLat": 41.3,
+        "maxLat": 51.1,
+        "minLng": -5.1,
+        "maxLng": 9.6
+      }
+    },
+    {
+      "code": "GA",
+      "name": "Gabon",
+      "continent": "Africa",
+      "schengen": false
+    },
+    {
+      "code": "GM",
+      "name": "Gambia",
+      "continent": "Africa",
+      "schengen": false
+    },
+    {
+      "code": "GE",
+      "name": "Georgia",
+      "continent": "Asia",
+      "schengen": false,
+      "bounds": {
+        "minLat": 41,
+        "maxLat": 43.6,
+        "minLng": 39.9,
+        "maxLng": 46.7
+      }
+    },
+    {
+      "code": "DE",
+      "name": "Germany",
+      "continent": "Europe",
+      "schengen": true,
+      "bounds": {
+        "minLat": 47.3,
+        "maxLat": 55.1,
+        "minLng": 5.9,
+        "maxLng": 15
+      }
+    },
+    {
+      "code": "GH",
+      "name": "Ghana",
+      "continent": "Africa",
+      "schengen": false
+    },
+    {
+      "code": "GR",
+      "name": "Greece",
+      "continent": "Europe",
+      "schengen": true
+    },
+    {
+      "code": "GD",
+      "name": "Grenada",
+      "continent": "North America",
+      "schengen": false
+    },
+    {
+      "code": "GT",
+      "name": "Guatemala",
+      "continent": "North America",
+      "schengen": false
+    },
+    {
+      "code": "GN",
+      "name": "Guinea",
+      "continent": "Africa",
+      "schengen": false
+    },
+    {
+      "code": "GW",
+      "name": "Guinea-Bissau",
+      "continent": "Africa",
+      "schengen": false
+    },
+    {
+      "code": "GY",
+      "name": "Guyana",
+      "continent": "South America",
+      "schengen": false
+    },
+    {
+      "code": "HT",
+      "name": "Haiti",
+      "continent": "North America",
+      "schengen": false
+    },
+    {
+      "code": "HN",
+      "name": "Honduras",
+      "continent": "North America",
+      "schengen": false
+    },
+    {
+      "code": "HK",
+      "name": "Hong Kong",
+      "continent": "Asia",
+      "schengen": false
+    },
+    {
+      "code": "HU",
+      "name": "Hungary",
+      "continent": "Europe",
+      "schengen": true
+    },
+    {
+      "code": "IS",
+      "name": "Iceland",
+      "continent": "Europe",
+      "schengen": true
+    },
+    {
+      "code": "IN",
+      "name": "India",
+      "continent": "Asia",
+      "schengen": false
+    },
+    {
+      "code": "ID",
+      "name": "Indonesia",
+      "continent": "Asia",
+      "schengen": false
+    },
+    {
+      "code": "IR",
+      "name": "Iran",
+      "continent": "Asia",
+      "schengen": false
+    },
+    {
+      "code": "IQ",
+      "name": "Iraq",
+      "continent": "Asia",
+      "schengen": false
+    },
+    {
+      "code": "IE",
+      "name": "Ireland",
+      "continent": "Europe",
+      "schengen": false
+    },
+    {
+      "code": "IL",
+      "name": "Israel",
+      "continent": "Asia",
+      "schengen": false
+    },
+    {
+      "code": "IT",
+      "name": "Italy",
+      "continent": "Europe",
+      "schengen": true,
+      "bounds": {
+        "minLat": 36.6,
+        "maxLat": 47.1,
+        "minLng": 6.6,
+        "maxLng": 18.5
+      }
+    },
+    {
+      "code": "JM",
+      "name": "Jamaica",
+      "continent": "North America",
+      "schengen": false
+    },
+    {
+      "code": "JP",
+      "name": "Japan",
+      "continent": "Asia",
+      "schengen": false,
+      "bounds": {
+        "minLat": 24,
+        "maxLat": 45.5,
+        "minLng": 122.9,
+        "maxLng": 153.9
+      }
+    },
+    {
+      "code": "JO",
+      "name": "Jordan",
+      "continent": "Asia",
+      "schengen": false
+    },
+    {
+      "code": "KZ",
+      "name": "Kazakhstan",
+      "continent": "Asia",
+      "schengen": false,
+      "bounds": {
+        "minLat": 40.5,
+        "maxLat": 55.4,
+        "minLng": 46.5,
+        "maxLng": 87.3
+      }
+    },
+    {
+      "code": "KE",
+      "name": "Kenya",
+      "continent": "Africa",
+      "schengen": false
+    },
+    {
+      "code": "KI",
+      "name": "Kiribati",
+      "continent": "Oceania",
+      "schengen": false
+    },
+    {
+      "code": "KP",
+      "name": "Korea (North)",
+      "continent": "Asia",
+      "schengen": false
+    },
+    {
+      "code": "KR",
+      "name": "Korea (South)",
+      "continent": "Asia",
+      "schengen": false
+    },
+    {
+      "code": "XK",
+      "name": "Kosovo",
+      "continent": "Europe",
+      "schengen": false
+    },
+    {
+      "code": "KW",
+      "name": "Kuwait",
+      "continent": "Asia",
+      "schengen": false
+    },
+    {
+      "code": "KG",
+      "name": "Kyrgyzstan",
+      "continent": "Asia",
+      "schengen": false
+    },
+    {
+      "code": "LA",
+      "name": "Laos",
+      "continent": "Asia",
+      "schengen": false
+    },
+    {
+      "code": "LV",
+      "name": "Latvia",
+      "continent": "Europe",
+      "schengen": true
+    },
+    {
+      "code": "LB",
+      "name": "Lebanon",
+      "continent": "Asia",
+      "schengen": false
+    },
+    {
+      "code": "LS",
+      "name": "Lesotho",
+      "continent": "Africa",
+      "schengen": false
+    },
+    {
+      "code": "LR",
+      "name": "Liberia",
+      "continent": "Africa",
+      "schengen": false
+    },
+    {
+      "code": "LY",
+      "name": "Libya",
+      "continent": "Africa",
+      "schengen": false
+    },
+    {
+      "code": "LI",
+      "name": "Liechtenstein",
+      "continent": "Europe",
+      "schengen": true
+    },
+    {
+      "code": "LT",
+      "name": "Lithuania",
+      "continent": "Europe",
+      "schengen": true
+    },
+    {
+      "code": "LU",
+      "name": "Luxembourg",
+      "continent": "Europe",
+      "schengen": true
+    },
+    {
+      "code": "MO",
+      "name": "Macao",
+      "continent": "Asia",
+      "schengen": false
+    },
+    {
+      "code": "MG",
+      "name": "Madagascar",
+      "continent": "Africa",
+      "schengen": false
+    },
+    {
+      "code": "MW",
+      "name": "Malawi",
+      "continent": "Africa",
+      "schengen": false
+    },
+    {
+      "code": "MY",
+      "name": "Malaysia",
+      "continent": "Asia",
+      "schengen": false
+    },
+    {
+      "code": "MV",
+      "name": "Maldives",
+      "continent": "Asia",
+      "schengen": false
+    },
+    {
+      "code": "ML",
+      "name": "Mali",
+      "continent": "Africa",
+      "schengen": false
+    },
+    {
+      "code": "MT",
+      "name": "Malta",
+      "continent": "Europe",
+      "schengen": true
+    },
+    {
+      "code": "MH",
+      "name": "Marshall Islands",
+      "continent": "Oceania",
+      "schengen": false
+    },
+    {
+      "code": "MR",
+      "name": "Mauritania",
+      "continent": "Africa",
+      "schengen": false
+    },
+    {
+      "code": "MU",
+      "name": "Mauritius",
+      "continent": "Africa",
+      "schengen": false
+    },
+    {
+      "code": "MX",
+      "name": "Mexico",
+      "continent": "North America",
+      "schengen": false
+    },
+    {
+      "code": "FM",
+      "name": "Micronesia",
+      "continent": "Oceania",
+      "schengen": false
+    },
+    {
+      "code": "MD",
+      "name": "Moldova",
+      "continent": "Europe",
+      "schengen": false
+    },
+    {
+      "code": "MC",
+      "name": "Monaco",
+      "continent": "Europe",
+      "schengen": false
+    },
+    {
+      "code": "MN",
+      "name": "Mongolia",
+      "continent": "Asia",
+      "schengen": false
+    },
+    {
+      "code": "ME",
+      "name": "Montenegro",
+      "continent": "Europe",
+      "schengen": false
+    },
+    {
+      "code": "MA",
+      "name": "Morocco",
+      "continent": "Africa",
+      "schengen": false
+    },
+    {
+      "code": "MZ",
+      "name": "Mozambique",
+      "continent": "Africa",
+      "schengen": false
+    },
+    {
+      "code": "MM",
+      "name": "Myanmar",
+      "continent": "Asia",
+      "schengen": false
+    },
+    {
+      "code": "NA",
+      "name": "Namibia",
+      "continent": "Africa",
+      "schengen": false
+    },
+    {
+      "code": "NR",
+      "name": "Nauru",
+      "continent": "Oceania",
+      "schengen": false
+    },
+    {
+      "code": "NP",
+      "name": "Nepal",
+      "continent": "Asia",
+      "schengen": false
+    },
+    {
+      "code": "NL",
+      "name": "Netherlands",
+      "continent": "Europe",
+      "schengen": true,
+      "bounds": {
+        "minLat": 50.7,
+        "maxLat": 53.6,
+        "minLng": 3.3,
+        "maxLng": 7.2
+      }
+    },
+    {
+      "code": "NZ",
+      "name": "New Zealand",
+      "continent": "Oceania",
+      "schengen": false
+    },
+    {
+      "code": "NI",
+      "name": "Nicaragua",
+      "continent": "North America",
+      "schengen": false
+    },
+    {
+      "code": "NE",
+      "name": "Niger",
+      "continent": "Africa",
+      "schengen": false
+    },
+    {
+      "code": "NG",
+      "name": "Nigeria",
+      "continent": "Africa",
+      "schengen": false
+    },
+    {
+      "code": "MK",
+      "name": "North Macedonia",
+      "continent": "Europe",
+      "schengen": false
+    },
+    {
+      "code": "NO",
+      "name": "Norway",
+      "continent": "Europe",
+      "schengen": true
+    },
+    {
+      "code": "OM",
+      "name": "Oman",
+      "continent": "Asia",
+      "schengen": false
+    },
+    {
+      "code": "PK",
+      "name": "Pakistan",
+      "continent": "Asia",
+      "schengen": false
+    },
+    {
+      "code": "PW",
+      "name": "Palau",
+      "continent": "Oceania",
+      "schengen": false
+    },
+    {
+      "code": "PS",
+      "name": "Palestine",
+      "continent": "Asia",
+      "schengen": false
+    },
+    {
+      "code": "PA",
+      "name": "Panama",
+      "continent": "North America",
+      "schengen": false
+    },
+    {
+      "code": "PG",
+      "name": "Papua New Guinea",
+      "continent": "Oceania",
+      "schengen": false
+    },
+    {
+      "code": "PY",
+      "name": "Paraguay",
+      "continent": "South America",
+      "schengen": false
+    },
+    {
+      "code": "PE",
+      "name": "Peru",
+      "continent": "South America",
+      "schengen": false
+    },
+    {
+      "code": "PH",
+      "name": "Philippines",
+      "continent": "Asia",
+      "schengen": false
+    },
+    {
+      "code": "PL",
+      "name": "Poland",
+      "continent": "Europe",
+      "schengen": true
+    },
+    {
+      "code": "PT",
+      "name": "Portugal",
+      "continent": "Europe",
+      "schengen": true
+    },
+    {
+      "code": "QA",
+      "name": "Qatar",
+      "continent": "Asia",
+      "schengen": false
+    },
+    {
+      "code": "RO",
+      "name": "Romania",
+      "continent": "Europe",
+      "schengen": true
+    },
+    {
+      "code": "RU",
+      "name": "Russia",
+      "continent": "Europe",
+      "schengen": false
+    },
+    {
+      "code": "RW",
+      "name": "Rwanda",
+      "continent": "Africa",
+      "schengen": false
+    },
+    {
+      "code": "KN",
+      "name": "Saint Kitts and Nevis",
+      "continent": "North America",
+      "schengen": false
+    },
+    {
+      "code": "LC",
+      "name": "Saint Lucia",
+      "continent": "North America",
+      "schengen": false
+    },
+    {
+      "code": "VC",
+      "name": "Saint Vincent and the Grenadines",
+      "continent": "North America",
+      "schengen": false
+    },
+    {
+      "code": "WS",
+      "name": "Samoa",
+      "continent": "Oceania",
+      "schengen": false
+    },
+    {
+      "code": "SM",
+      "name": "San Marino",
+      "continent": "Europe",
+      "schengen": false
+    },
+    {
+      "code": "ST",
+      "name": "São Tomé and Príncipe",
+      "continent": "Africa",
+      "schengen": false
+    },
+    {
+      "code": "SA",
+      "name": "Saudi Arabia",
+      "continent": "Asia",
+      "schengen": false
+    },
+    {
+      "code": "SN",
+      "name": "Senegal",
+      "continent": "Africa",
+      "schengen": false
+    },
+    {
+      "code": "RS",
+      "name": "Serbia",
+      "continent": "Europe",
+      "schengen": false
+    },
+    {
+      "code": "SC",
+      "name": "Seychelles",
+      "continent": "Africa",
+      "schengen": false
+    },
+    {
+      "code": "SL",
+      "name": "Sierra Leone",
+      "continent": "Africa",
+      "schengen": false
+    },
+    {
+      "code": "SG",
+      "name": "Singapore",
+      "continent": "Asia",
+      "schengen": false
+    },
+    {
+      "code": "SK",
+      "name": "Slovakia",
+      "continent": "Europe",
+      "schengen": true
+    },
+    {
+      "code": "SI",
+      "name": "Slovenia",
+      "continent": "Europe",
+      "schengen": true
+    },
+    {
+      "code": "SB",
+      "name": "Solomon Islands",
+      "continent": "Oceania",
+      "schengen": false
+    },
+    {
+      "code": "SO",
+      "name": "Somalia",
+      "continent": "Africa",
+      "schengen": false
+    },
+    {
+      "code": "ZA",
+      "name": "South Africa",
+      "continent": "Africa",
+      "schengen": false
+    },
+    {
+      "code": "SS",
+      "name": "South Sudan",
+      "continent": "Africa",
+      "schengen": false
+    },
+    {
+      "code": "ES",
+      "name": "Spain",
+      "continent": "Europe",
+      "schengen": true,
+      "bounds": {
+        "minLat": 27.6,
+        "maxLat": 43.8,
+        "minLng": -18.2,
+        "maxLng": 4.3
+      }
+    },
+    {
+      "code": "LK",
+      "name": "Sri Lanka",
+      "continent": "Asia",
+      "schengen": false
+    },
+    {
+      "code": "SD",
+      "name": "Sudan",
+      "continent": "Africa",
+      "schengen": false
+    },
+    {
+      "code": "SR",
+      "name": "Suriname",
+      "continent": "South America",
+      "schengen": false
+    },
+    {
+      "code": "SE",
+      "name": "Sweden",
+      "continent": "Europe",
+      "schengen": true
+    },
+    {
+      "code": "CH",
+      "name": "Switzerland",
+      "continent": "Europe",
+      "schengen": true
+    },
+    {
+      "code": "SY",
+      "name": "Syria",
+      "continent": "Asia",
+      "schengen": false
+    },
+    {
+      "code": "TW",
+      "name": "Taiwan",
+      "continent": "Asia",
+      "schengen": false
+    },
+    {
+      "code": "TJ",
+      "name": "Tajikistan",
+      "continent": "Asia",
+      "schengen": false
+    },
+    {
+      "code": "TZ",
+      "name": "Tanzania",
+      "continent": "Africa",
+      "schengen": false
+    },
+    {
+      "code": "TH",
+      "name": "Thailand",
+      "continent": "Asia",
+      "schengen": false
+    },
+    {
+      "code": "TL",
+      "name": "Timor-Leste",
+      "continent": "Asia",
+      "schengen": false
+    },
+    {
+      "code": "TG",
+      "name": "Togo",
+      "continent": "Africa",
+      "schengen": false
+    },
+    {
+      "code": "TO",
+      "name": "Tonga",
+      "continent": "Oceania",
+      "schengen": false
+    },
+    {
+      "code": "TT",
+      "name": "Trinidad and Tobago",
+      "continent": "North America",
+      "schengen": false
+    },
+    {
+      "code": "TN",
+      "name": "Tunisia",
+      "continent": "Africa",
+      "schengen": false
+    },
+    {
+      "code": "TR",
+      "name": "Türkiye",
+      "continent": "Asia",
+      "schengen": false,
+      "bounds": {
+        "minLat": 35.8,
+        "maxLat": 42.1,
+        "minLng": 25.7,
+        "maxLng": 44.8
+      }
+    },
+    {
+      "code": "TM",
+      "name": "Turkmenistan",
+      "continent": "Asia",
+      "schengen": false
+    },
+    {
+      "code": "TV",
+      "name": "Tuvalu",
+      "continent": "Oceania",
+      "schengen": false
+    },
+    {
+      "code": "UG",
+      "name": "Uganda",
+      "continent": "Africa",
+      "schengen": false
+    },
+    {
+      "code": "UA",
+      "name": "Ukraine",
+      "continent": "Europe",
+      "schengen": false
+    },
+    {
+      "code": "AE",
+      "name": "United Arab Emirates",
+      "continent": "Asia",
+      "schengen": false,
+      "bounds": {
+        "minLat": 22.6,
+        "maxLat": 26.1,
+        "minLng": 51.5,
+        "maxLng": 56.4
+      }
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom",
+      "continent": "Europe",
+      "schengen": false,
+      "bounds": {
+        "minLat": 49.9,
+        "maxLat": 60.9,
+        "minLng": -8.6,
+        "maxLng": 1.8
+      }
+    },
+    {
+      "code": "US",
+      "name": "United States",
+      "continent": "North America",
+      "schengen": false,
+      "bounds": {
+        "minLat": 24.5,
+        "maxLat": 49.4,
+        "minLng": -125,
+        "maxLng": -66.9
+      }
+    },
+    {
+      "code": "UY",
+      "name": "Uruguay",
+      "continent": "South America",
+      "schengen": false
+    },
+    {
+      "code": "UZ",
+      "name": "Uzbekistan",
+      "continent": "Asia",
+      "schengen": false,
+      "bounds": {
+        "minLat": 37,
+        "maxLat": 45.6,
+        "minLng": 55.9,
+        "maxLng": 73.2
+      }
+    },
+    {
+      "code": "VU",
+      "name": "Vanuatu",
+      "continent": "Oceania",
+      "schengen": false
+    },
+    {
+      "code": "VA",
+      "name": "Vatican City",
+      "continent": "Europe",
+      "schengen": false
+    },
+    {
+      "code": "VE",
+      "name": "Venezuela",
+      "continent": "South America",
+      "schengen": false
+    },
+    {
+      "code": "VN",
+      "name": "Vietnam",
+      "continent": "Asia",
+      "schengen": false
+    },
+    {
+      "code": "YE",
+      "name": "Yemen",
+      "continent": "Asia",
+      "schengen": false
+    },
+    {
+      "code": "ZM",
+      "name": "Zambia",
+      "continent": "Africa",
+      "schengen": false
+    },
+    {
+      "code": "ZW",
+      "name": "Zimbabwe",
+      "continent": "Africa",
+      "schengen": false
+    }
+  ]
+}
